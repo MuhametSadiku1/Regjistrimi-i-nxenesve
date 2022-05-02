@@ -1,0 +1,80 @@
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.exe
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.deps.json
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.json
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.dev.json
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.pdb
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.AssemblyReference.cache
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfoInputs.cache
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfo.cs
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.CoreCompileInputs.cache
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.pdb
+D:\Trajnim\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.genruntimeconfig.cache
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.exe
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.deps.json
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.json
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.dev.json
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.AssemblyReference.cache
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfoInputs.cache
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfo.cs
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.CoreCompileInputs.cache
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\TECHCOM\Desktop\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.genruntimeconfig.cache
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.exe
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.deps.json
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.json
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.dev.json
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.pdb
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.AssemblyReference.cache
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfoInputs.cache
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfo.cs
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.CoreCompileInputs.cache
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.pdb
+D:\Trajnim\RegjistrimiINxenesve (2)\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.genruntimeconfig.cache
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.exe
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.deps.json
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.json
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.dev.json
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.AssemblyReference.cache
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfoInputs.cache
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfo.cs
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.CoreCompileInputs.cache
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\Albaa\OneDrive\Desktop\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.genruntimeconfig.cache
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.exe
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.deps.json
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.json
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.runtimeconfig.dev.json
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\bin\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.AssemblyReference.cache
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfoInputs.cache
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.AssemblyInfo.cs
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.csproj.CoreCompileInputs.cache
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\ref\RegjistrimiINxenesve.dll
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.pdb
+C:\Users\TECHCOM\Desktop\FinalRegjistrimi\RegjistrimiINxenesve\RegjistrimiINxenesve\obj\Debug\net5.0\RegjistrimiINxenesve.genruntimeconfig.cache
